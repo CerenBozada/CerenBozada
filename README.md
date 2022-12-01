@@ -8,7 +8,7 @@
 
 I'm a self-taught passionate FrontEnd developer candidate, I also display my Python projects here!
 
-**About me**
+*About me*
 
 - 💼 Assistant Instructor in Woman In Tech Academy https://sisterslab.co/women-in-tech-academy/#w-tech-hakkinda
 
