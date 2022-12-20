@@ -6,7 +6,7 @@
 
 
 
-I'm a self-taught passionate FrontEnd developer candidate, I also display my Python projects here!
+I'm a self-taught passionate developer candidate, I also display my Python projects here!
 
 *About me*
 
