@@ -6,7 +6,7 @@
 
 
 
-I'm a self-taught passionate developer candidate, I also display my Python projects here!
+Hİ!  I  display my projects here!
 
 *About me*
 
