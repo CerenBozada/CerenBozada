@@ -10,9 +10,7 @@ Hİ!  I  display my projects here!
 
 *About me*
 
-- 💼 Assistant Instructor in Woman In Tech Academy https://sisterslab.co/women-in-tech-academy/#w-tech-hakkinda
-
-- 📈 Building javascript projects and learning react
+- 📈 Building android projects
 
 - ❤️ I love writing on my medium page here you can follow me : https://medium.com/@ceren.bozada
   
