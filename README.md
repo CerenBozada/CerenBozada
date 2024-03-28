@@ -10,7 +10,7 @@ Hİ!  I  display my projects here!
 
 *About me*
 
-- 📈 Building android projects
+- 📈 Building frontend and android projects
 
 - ❤️ I love writing on my medium page here you can follow me : https://medium.com/@ceren.bozada
   
